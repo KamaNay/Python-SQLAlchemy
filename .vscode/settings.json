@@ -4,7 +4,8 @@
         "editor.defaultFormatter": "charliermarsh.ruff"
     },
     "cSpell.words": [
-        "mydb"
+        "mydb",
+        "sessionmaker"
     ],
     "python-envs.defaultEnvManager": "ms-python.python:system"
 }
